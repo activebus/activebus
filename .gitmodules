@@ -1,0 +1,12 @@
+[submodule "src/libraries/libactivebus-core"]
+	path = src/libraries/libactivebus-core
+	url = git@github.com:activebus/libactivebus-core.git
+[submodule "src/libraries/libactivebus-client"]
+	path = src/libraries/libactivebus-client
+	url = git@github.com:activebus/libactivebus-client.git
+[submodule "src/applications/activebus-monitor"]
+	path = src/applications/activebus-monitor
+	url = git@github.com:activebus/activebus-monitor.git
+[submodule "src/applications/activebus-deamon"]
+	path = src/applications/activebus-deamon
+	url = git@github.com:activebus/activebus-deamon.git
